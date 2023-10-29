@@ -1,0 +1,1 @@
+# Clip to hold mouse-pad on place (do not move accidentally by hand). For IKEA table with table panel thickness 34 mm (1.33")
