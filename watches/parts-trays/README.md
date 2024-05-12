@@ -6,5 +6,4 @@ Watch parts trays
 
 ![trays](./img/watch-part-trays1.png)
 ![trays](./img/watch-part-trays2.jpg)
-![trays](./img/watch-part-trays3.jpg)
 
