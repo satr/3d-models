@@ -5,5 +5,5 @@ Watch parts trays
 * [Tray 4 STL](./stl/parts-tray4.stl)
 
 ![trays](./img/watch-part-trays1.png)
-![trays](./img/watch-part-trays2.jpg)
+![trays](./img/watch-part-trays-2.jpg)
 
