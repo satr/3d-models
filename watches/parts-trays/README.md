@@ -1,4 +1,4 @@
-Watch parts trays 
+Watch parts trays. Diameter 53mm.
 * [Tray 1 STL](./stl/parts-tray1.stl)
 * [Tray 2 STL](./stl/parts-tray2.stl)
 * [Tray 3 STL](./stl/parts-tray3.stl)
